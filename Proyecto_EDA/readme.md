@@ -84,7 +84,7 @@ plt.style.use('seaborn-bright')
 ![Top 20 países por número de accidentes](img/t20accidents.png)
 
 *Top 20 Países por número de vuelos*
-![Top 20 países por número de vuelos](img/t20ratioaccidentes.png)
+![Top 20 países por número de vuelos](img/t20flights.png)
 
 #### Se puede comprobar que los países donde más accidentes hay es porque también es donde más vuelos hay, sin embargo, haciendo la relación, la foto muestra que la peor proporción está en países afrianos y asiáticos sobre todo, estando los países ricos (donde más se vuela) en las últimas posiciones del ranking. Como ejemplo, Estados Unidos, que es el que más accidentes tiene, aparece en el puesto 119 de 145 en la relaciónde accidentes respecto a vuelos:
 
